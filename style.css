@@ -88,6 +88,7 @@ nav ul li a:hover{
 
 .cards{
     display: flex;
+    background-color: rgb(233, 233, 233);
 }
 
 .card-item{

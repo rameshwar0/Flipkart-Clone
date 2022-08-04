@@ -16,6 +16,7 @@
 .My-1:hover{
     text-decoration: underline;
     cursor: pointer;
+    font-weight: 600;
 }
 
 
@@ -26,4 +27,5 @@
 .text-center{
     text-align: center;
     margin: 5px 0;
+    font-weight: 500;
 }
